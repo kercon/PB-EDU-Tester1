@@ -1,6 +1,9 @@
 {
     "name": "learningapp",
-    "version": "0.0.0.1",
+    "version": "1.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
     "dependencies": {
         "lodash": "^4.17.21"
     }
